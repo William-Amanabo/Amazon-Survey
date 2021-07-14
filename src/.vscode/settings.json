@@ -1,0 +1,11 @@
+{
+    "todo-tree.tree.showBadges": false,
+    "todo-tree.tree.showCountsInTree": false,
+    "todo-tree.tree.disableCompactFolders": false,
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "workbench.colorCustomizations": {
+    
+    },
+    "materialTheme.accent": "Cyan"
+    
+}

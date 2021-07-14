@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "amazon-ai-search",
+  "private_key_id": "c3ca963dcebf1ff9ea4fc09af03d78c4deccce31",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC1TCXwhNmY2XSs\nrRqiB8vb4Kf4dqVJS/hePyESNF4azdbgfVFumn0ogBLMubuKsI4FQGJ19+lE0fwT\nW50HyhNSn0/WzIJXSrKtCnd03nwXGTuPQOIzxkZlyMTKrWuxCH5NGf0OD95SLkNA\n/DiA4K8TwNlzVaq0W9HYdFhZGI5WPf5b0FwRStBDElD6B4Sh+uK9kJyqyEI9rQvU\nFfbLmmcIoOWNRcWEeGyb0HlgM6dfNpSNN5BjKaAeTi3bqBjqGhxBUua2Wr42K+1F\nwzOrwtaEvYc0thVlVTEu6An24wHzjgB4uEpT9zTXwtYA1FFlY4zJ1QztdYOrn2TT\nvKEx0Ye3AgMBAAECggEAAmVnakvfMlwhZMzZjsL/8z/Usyh3m8Xjb59xo54fO5x1\nLBIL8E8eEK8h+yRd8ax5XAwTS7rYkZPIO0Xuh9/9rGMK+OxKsWD9MTieW+Q64J/x\nP73xn2c4nqIY072XWvIhSonpjx+E5od8/7q1pne8aKGXs3oHimBc9XmS11lHPFA0\nrXYJ7XMRZM2T0uHOntKkqgbtT8zsscvsZJWCHXBP5JPByZ+m/lgm5QbyvwZihjON\nWDhBeJT8PRKkpEJ7KWuhOTd/9ZBIzsA7f+RQcOyHqCwP71LVu3Y5PGFZf+J4FfqZ\nxTVeqzliu5L+ADZoYbjVuSrzcMyR4OgI2mM566LX+QKBgQD7QiySqLgbhrPm3uVF\ns9VN7Zv7vd3/ZLe3+of1mcV9xwtm34rnuD0JkaPh0213qBmdTKK9v3dttPaplVIN\nqitXMPsjFS2EINVR/RlhHiw3VI8RC+qO6M3I/SXBQndgG2aX/1dcrhEcfykuYUZL\nrDWR2w57o6wEPHJCs50EawOmuQKBgQC4t/5PDVis/bHrq2ys/HPbpV5i8H2MLaY1\n5eYSDpVqpL9ntbpKN96cRnbxHGyq/Ey70IlJ/j9UCdBidmB1+Wfno87ewK4HSWS4\nHO1Ow3yKMX73/bZHMv994xEVwDPhKGQrZl9WyeQjMeofQziHoXifwNCI/PCOnPa5\nRpJLlr9p7wKBgBEOh/oYzA7KUTIuFYBq2eMlaz5mwEhTLQmnT02D9903AvYj3Mko\nP7SDl42ADeFenwaHqlCZS+E9tLUEdwKId9K+d34FNQbQN8sOFIf8RWIoMmIk3fJ/\nqWColsSM34+9rHRLGEIpau31T/VfEyeV9DkHlu8byFStSdBvYwxmu2O5AoGATcIG\nZ7iyj3/sGcz73oYXL2sZpISgFRZSVXYFt6wz8cSQXlP9q6iBKT/waecRR5kVpCpQ\n4LkKZ5IKCqjSSldHChfGybZKi/61S1vB+doI3xOe4z4GMUqiipe/ZWyXajzajfp2\nP86VHsuwRqDBdzbd1EIShtgTW7VvlubCRtealDkCgYAg/XywqDiwz15ipgf2Fb+m\nN324cfYql0gk4RoIRULc3qti8bn3mlP67e3nb7kWcs1UU3XVmRquLIwBStWo8Pvq\nHpm4MM5G6LtJzLerSXh3ysIIOFtsDCqOAq7zyMyLNLJ+eVv8iaJEeT4XpenFWIuJ\nEkrQ8P4iZBg/v4mZG86JOg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "amazon-ai-search@amazon-ai-search.iam.gserviceaccount.com",
+  "client_id": "106438836573716648123",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amazon-ai-search%40amazon-ai-search.iam.gserviceaccount.com"
+}

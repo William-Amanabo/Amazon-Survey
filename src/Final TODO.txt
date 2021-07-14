@@ -1,0 +1,11 @@
+Assign products for searching
+fix async timing
+setup mongodb server
+go live
+
+
+Automobile
+computers
+electronics
+home & kitchen
+Arts and crafts
